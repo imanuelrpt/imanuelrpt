@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Imanuel!
+## Hi there 👋 I'm Imanuel Roderich!
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here's a little about me:
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 🔭 Currently working on: Web development projects using PHP (CodeIgniter & Laravel)
 - 🌱 Currently learning: Machine Learning & Deep Learning (LSTM for time series analysis)
 - 💬 Ask me about: Web development, databases, or tech in general
-- 📫 How to reach me: imanuel@example.com *(ganti dengan emailmu)*
+- 📫 How to reach me: imanuelrpt13@gmail.com
 - ⚡ Fun fact: I love building things from scratch and turning ideas into reality
 
 ---
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 🔗 [Project 1 - E-commerce Platform (CodeIgniter)](https://github.com/imanuelrpt/ecommerce-ci4)
 - 🔗 [Project 2 - LSTM Price Forecasting](https://github.com/imanuelrpt/beras-lstm)
 
-<h1 align="center">Hi there 👋, I'm Imanuel!</h1>
+<h1 align="center">Hi there 👋, I'm Imanuel Roderich!</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coder gif" />
 </p>
