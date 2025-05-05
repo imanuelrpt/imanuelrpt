@@ -44,26 +44,16 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently working on: **Web-based projects with PHP (CI4 & Laravel)**
-- 🌱 Learning: **Machine Learning for time series forecasting (LSTM)**
-- 💬 Ask me about: **Web development, databases, or academic research**
-- 📫 Reach me: imanuel@example.com *(ubah ke email asli)*
-- 🎓 Final year student working on: *"Forecasting Rice Commodity Prices in Bekasi using LSTM"*
-
----
-
 ### 🔗 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/imanuelrpt" target="_blank">
+  <a href="[https://linkedin.com/in/imanuelrpt](https://www.linkedin.com/in/imanuel-rodericus-parlindungan-tempo-97783b289/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:imanuel@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourhandle">
+<a href="[https://twitter.com/yourhandle](https://x.com/porksite_)" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+</a>
+  <a href="[https://instagram.com/yourhandle](https://www.instagram.com/imnuelrdrich_/)">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
