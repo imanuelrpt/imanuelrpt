@@ -47,13 +47,6 @@
 
 ---
 
-### 🌟 Featured Projects
-- 🔗 [E-commerce CI4](https://github.com/imanuelrpt/ecommerce-ci4): A CodeIgniter 4 e-commerce platform
-- 🔗 [Beras LSTM](https://github.com/imanuelrpt/beras-lstm): Time-series prediction of rice prices in Bekasi
-- 🔗 [Laravel CRUD App](https://github.com/imanuelrpt/laravel-crud-app): Simple CRUD with Laravel
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imanuelrpt&color=blue" alt="Profile views" />
 </p>
