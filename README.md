@@ -7,7 +7,7 @@
 Bekasi, Indonesia · Open to remote
 
 [![Email](https://img.shields.io/badge/Email-imanuelrpt13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imanuelrpt13@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imanuelrpt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanuelrpt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imanuelrpt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanueltempo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Tokopedia%20Analysis-1F6FEB?style=flat-square&logo=github&logoColor=white)](https://github.com/imanuelrpt/indonesia-ecommerce-behavior-analysis)
 
 </div>
