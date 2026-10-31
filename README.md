@@ -1,6 +1,6 @@
 <div align="center">
 
-# Imanuel Tempo
+# Imanuel Rodericus Parlindungan Tempo
 
 **Data Analyst** — Python · SQL · Statistics
 
