@@ -4,7 +4,7 @@
 
 **Data Analyst** — Python · SQL · Statistics
 
-Bekasi, Indonesia · Open to remote
+Bekasi, Indonesia · Open to remote / Full-time
 
 [![Email](https://img.shields.io/badge/Email-imanuelrpt13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imanuelrpt13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imanuelrpt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanueltempo/)
