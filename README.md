@@ -53,7 +53,7 @@ What I care about is **method, not decoration**: state the question, choose the 
 |---|---|
 | **Language** | Python (pandas, NumPy, SciPy, scikit-learn), SQL, PHP |
 | **Analysis** | EDA, hypothesis testing (Mann-Whitney, Kruskal-Wallis), effect size (Cliff's delta), correlation, cohort & RFM analysis, clustering |
-| **Visualisation** | Matplotlib, Seaborn, Chart.js, Looker Studio (learning) |
+| **Visualisation** | Looker Studio |
 | **Data** | MySQL, PostgreSQL, CSV pipelines, notebook reproducibility |
 | **Workflow** | Jupyter/Colab, Git & GitHub, AI-assisted development (Cursor, Claude Code) with manual diff review |
 
